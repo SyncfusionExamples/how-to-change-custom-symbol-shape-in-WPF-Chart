@@ -13,4 +13,4 @@ If you are facing path too long exception when building this example project, cl
 
 ## <a name="output"></a>Output ##
 
-![output](SymbolTemplate.png)
+![output](SymbolTemplate.jpg)
